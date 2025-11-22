@@ -209,7 +209,7 @@ cleaning_effort = base_difficulty × seasonal_factor × log(age + 1)
 ## Project Structure
 
 ```
-veterinary-hotel/
+veterinary-hotel-manager/
 ├── hva-core/                    # Core domain logic
 │   ├── src/hva/
 │   │    ├── animal/             # Animal entities and satisfaction calculation
